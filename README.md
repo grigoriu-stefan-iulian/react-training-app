@@ -12,3 +12,6 @@ or:
 yarn insta
 yarn startll
 
+Exit
+"shift" + ":" + "wq"
+:quit
