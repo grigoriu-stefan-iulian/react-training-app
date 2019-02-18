@@ -11,7 +11,7 @@ class App extends Component {
   state = {
     clicked: 0,
     selectedColor: {
-      hexCode: 'grey',
+      hexCode: 'greytt',
       label: 'greyLabel'
     }
   }
